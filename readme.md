@@ -20,7 +20,7 @@ mklabPluginsに少し便利な修正を加えたプラグインが入ってい�
  オリジナルでは，選んだボタン（choices）の順番（index）のみが出力されていたため，選んだボタンの値も出力されるように修正
  * jspsych-survey-likert-viewport.js
  
- リッカート尺度の単位をviewport（vh, vw）に変更
+ リッカート尺度の表示単位をviewport（vh, vw）に変更
  * jspsych-survey-multi-choice-mk.js
  
  多肢選択のレイアウトを変更したもの（例えば，選択肢の後ろにあったチェックボタンを選択肢の前に移動）
