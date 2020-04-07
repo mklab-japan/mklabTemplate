@@ -1,5 +1,5 @@
 # jsPsych用のテンプレート
-jsPsychチュートリアル（https://www.notion.so/jsPsych-73cade0a2e044217aedf01b5845e8d4e）で用いたjsPsych用のテンプレートです。
+jsPsychチュートリアル（https://www.notion.so/jsPsych-73cade0a2e044217aedf01b5845e8d4e） で用いたjsPsych用のテンプレートです。
 
 ## 使い方
 index.htmlとmain.jsを書き換えてご利用ください。
