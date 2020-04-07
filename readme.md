@@ -2,7 +2,7 @@
 jsPsychチュートリアル（ https://www.notion.so/jsPsych-73cade0a2e044217aedf01b5845e8d4e )で用いたjsPsych用のテンプレートです。
 
 ## 使い方
-index.htmlとmain.jsを書き換えてご利用ください。
+index.htmlとmain.jsを書き換えてご利用ください（そのまま，index.htmlを開くと「Hello, world!」と5秒表示されて終了します）。
 
 
 mklabPluginsに少し便利な修正を加えたプラグインが入っているのでよろしければどうぞ。読み込むプラグインとしてこちらを指定してください。typeとして読み込む名前はオリジナルのままで利用できます。
